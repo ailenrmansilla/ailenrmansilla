@@ -1,16 +1,24 @@
 ## Hi there 👋
+# Ailen Neal
 
-<!--
-**ailenrmansilla/ailenrmansilla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello, GitHub! 👋
 
-Here are some ideas to get you started:
+I'm Ailen Neal, a student at Brigham Young University-Idaho interested in web development. Welcome to my GitHub profile!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+- 🔭 I’m currently working on my Software Development degree
+- 🌱 I’m currently learning React
+- 📫 You can find me on LinkedIn as Ailen Mansilla Neal
+- ⚡ Fun fact: I speak English and Spanish. I'm an Argentinian living in Indiana, USA.
+
+## Technologies and Tools
+
+- Proficient in: HTML5, CSS3, Javascript, Node.js, React.js, and Python.
+- Skills: Bilingual communication. Clean code.
+
+## Let's Connect!
+
+- Here is my LinkedIn: www.linkedin.com/in/ailen-mansilla
+
+Feel free to explore my repositories and don't hesitate to reach out. Happy coding! 🚀
